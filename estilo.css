@@ -45,7 +45,7 @@
 
 }
 
-.container7 {
+.container-exercicioB {
     background-color: grey;
     display: flex;
     flex-direction: column;
@@ -53,7 +53,7 @@
 
 }
 
-.container8 {
+.container-desafio {
     background-color: grey;
     display: flex;
     flex-direction: row;
